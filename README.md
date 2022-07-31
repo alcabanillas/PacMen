@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="MIT" />
+  <img src="./.github/app.gif" alt="Pacmen" />
 
   &#xa0;
 
@@ -9,25 +9,25 @@
 <h1 align="center">Pacmen Factory</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/mit?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/Pacmen?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alcabanillas/mit?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/alcabanillas/Pacmen?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alcabanillas/mit?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alcabanillas/Pacmen?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/alcabanillas/mit?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/alcabanillas/Pacmen?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/alcabanillas/mit?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/alcabanillas/Pacmen?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/alcabanillas/mit?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/alcabanillas/Pacmen?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/alcabanillas/mit?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/alcabanillas/Pacmen?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  MIT 🚀 Under construction...  🚧
+	🚧  Pacmen 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alcabanillas/mit
+$ git clone https://github.com/alcabanillas/Pacmen
 
 # Access
-$ cd mit
+$ cd Pacmen
 
 # Install dependencies
 $ yarn
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/alcabanillas" target="_blank">Alvaro</a>
+Made with :heart: by <a href="https://github.com/alcabanillas" target="_blank">{{YOUR_NAME}}</a>
 
 &#xa0;
 
