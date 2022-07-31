@@ -7,10 +7,11 @@
 </div>
 
 <h1 align="center">Pacmen Factory</h1>
+<div align="center">
+  <img alt ="Pacman" src="images/PacMan1.png">
+</div>
 
 <p align="center">
-	
-  <img alt ="Pacman" src="pacmen/images/PacMan1.png">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/Pacmen?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/alcabanillas/Pacmen?color=56BEB8">
