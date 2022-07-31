@@ -46,7 +46,8 @@
 
 ## :dart: About ##
 
-Describe your project
+Little javascript project applying Js basics and DOM manipulation. We are creating as many pacman as requested and move all of them independently checking window boundaries and changing the direction if neede
+
 
 ## :sparkles: Features ##
 
