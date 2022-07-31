@@ -53,7 +53,7 @@ Little javascript project applying Js basics and DOM manipulation. We are creati
 
 :heavy_check_mark: Creating pacmen in DOM as requested;\
 :heavy_check_mark: Pacmen moving x and y axis;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Detect collision of all the elements in screen;
 
 ## :rocket: Technologies ##
 
@@ -61,9 +61,6 @@ The following tools were used in this project:
 
 - [Javascript](https://javascript.com/)
 - [HTML](https://html.com/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
