@@ -7,6 +7,9 @@
 </div>
 
 <h1 align="center">Pacmen Factory</h1>
+<div align="center">
+  <img alt ="Pacman" src="images/PacMan1.png">
+</div>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/alcabanillas/Pacmen?color=56BEB8">
@@ -51,19 +54,16 @@ Little javascript project applying Js basics and DOM manipulation. We are creati
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Creating pacmen in DOM as requested;\
+:heavy_check_mark: Pacmen moving x and y axis;\
+:heavy_check_mark: Detect collision of all the elements in screen;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://javascript.com/)
+- [HTML](https://html.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -77,14 +77,6 @@ $ git clone https://github.com/alcabanillas/Pacmen
 
 # Access
 $ cd Pacmen
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
