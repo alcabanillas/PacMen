@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://mit.netlify.app">Demo</a> -->
+  <!-- <a href="https://pacmen.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Pacmen Factory</h1>
@@ -49,7 +49,7 @@
 
 ## :dart: About ##
 
-Little javascript project applying Js basics and DOM manipulation. We are creating as many pacman as requested and move all of them independently checking window boundaries and changing the direction if needed
+Javascript project applying Js basics and DOM manipulation. We are creating as many pacman as requested and move all of them independently checking window boundaries and changing the direction if needed
 
 
 ## :sparkles: Features ##
