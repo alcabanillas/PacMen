@@ -65,6 +65,7 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 <li>Stop the pacmen if needed
 <li>Allow the user to change the update time according to preferences
 <li>Apply some CSS changes to show a more customized experience
+<li>Detect collision between all the running pacmen
 </ul>
 
 ## :rocket: Technologies
