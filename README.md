@@ -62,6 +62,7 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 
 <ul>
 <li>Clear all pacmen to start from scratch
+<li>Limit the maximum number of pacmen that can be created
 <li>Stop the pacmen if needed
 <li>Allow the user to change the update time according to preferences
 <li>Apply some CSS changes to show a more customized experience
