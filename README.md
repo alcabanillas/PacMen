@@ -58,6 +58,15 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 :heavy_check_mark: Pacmen moving x and y axis;\
 :heavy_check_mark: Detect collision of all the elements in screen;
 
+## :construction_worker: Roadmap
+
+<ul>
+<li>Clear all pacmen to start from scratch
+<li>Stop the pacmen if needed
+<li>Allow the user to change the update time according to preferences
+<li>Apply some CSS changes to show a more customized experience
+</ul>
+
 ## :rocket: Technologies
 
 The following tools were used in this project:
