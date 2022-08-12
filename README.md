@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Pacmen" />
 
-  &#xa0;
+&#xa0;
 
   <!-- <a href="https://pacmen.netlify.app">Demo</a> -->
 </div>
@@ -29,9 +29,9 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Pacmen 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
@@ -47,33 +47,33 @@
 
 <br>
 
-## :dart: About ##
+## :dart: About
 
 <<<<<<< HEAD
 Little javascript project applying Js basics and DOM manipulation. We are creating as many pacman as requested and move all of them independently checking window boundaries and changing the direction if needed
 =======
 Javascript project applying Js basics and DOM manipulation. We are creating as many pacman as requested and move all of them independently checking window boundaries and changing the direction if needed
->>>>>>> 07696de7b1638ab5c0e8a740baf7cc8aa3c3b6d3
 
+> > > > > > > 07696de7b1638ab5c0e8a740baf7cc8aa3c3b6d3
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 :heavy_check_mark: Creating pacmen in DOM as requested;\
 :heavy_check_mark: Pacmen moving x and y axis;\
 :heavy_check_mark: Detect collision of all the elements in screen;
 
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
 - [Javascript](https://javascript.com/)
 - [HTML](https://html.com/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
@@ -83,10 +83,9 @@ $ git clone https://github.com/alcabanillas/pacmen
 $ cd Pacmen
 ```
 
-## :memo: License ##
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/alcabanillas" target="_blank">Alvaro Cabanillas</a>
 
