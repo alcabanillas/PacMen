@@ -58,6 +58,13 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 :heavy_check_mark: Pacmen moving x and y axis\
 :heavy_check_mark: Detect collision of all the elements with the boundaries
 
+## :rocket: Technologies
+
+The following tools were used in this project:
+
+- [Javascript](https://javascript.com/)
+- [HTML](https://html.com/)
+
 ## :construction_worker: Roadmap
 
 <ul>
@@ -68,13 +75,6 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 <li>Apply some CSS changes to show a more customized experience
 <li>Detect collision between all the running pacmen
 </ul>
-
-## :rocket: Technologies
-
-The following tools were used in this project:
-
-- [Javascript](https://javascript.com/)
-- [HTML](https://html.com/)
 
 ## :white_check_mark: Requirements
 
