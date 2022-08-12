@@ -56,7 +56,7 @@ Javascript project applying Js basics and DOM manipulation. We are creating as m
 
 :heavy_check_mark: Creating pacmen in DOM as requested\
 :heavy_check_mark: Pacmen moving x and y axis\
-:heavy_check_mark: Detect collision of all the elements with the boundaries\
+:heavy_check_mark: Detect collision of all the elements with the boundaries
 
 ## :construction_worker: Roadmap
 
